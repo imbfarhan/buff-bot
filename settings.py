@@ -20,4 +20,5 @@ cookies_path=os.path.normpath(os.path.join(abs_path, cookies_rel_path))
 
 # #SET MAX FLOAT AND MAX PRICE HERE
 max_float=1
+min_float=0
 max_price=0 #PRICE IS IN USD
